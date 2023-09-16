@@ -1,0 +1,17 @@
+Uncaught TypeError: Cannot read properties of undefined (reading 'preventDefault')
+    at Router.route (router.js:11:7)
+    at index.js:12:23
+
+    passei ums 40 minutos neste erro 
+
+
+    ele n consegue ler o data event que veio do ROUTE() quando a pessoa clicar no link 
+
+  mabe this help {https://github.com/devsenexx/eslint-plugin-jsx-a11y/blob/main/docs/rules/anchor-is-valid.md}
+
+    começei as 11h40'
+    até        13h19
+
+    voltei as 14h47'
+
+    
